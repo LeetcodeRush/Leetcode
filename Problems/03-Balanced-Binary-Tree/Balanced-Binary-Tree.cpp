@@ -23,7 +23,7 @@ public:
 		int rightHeight{};
 		bool balanced = check(root->left, leftHeight) && check(root->right, rightHeight) && (abs(leftHeight - rightHeight) <= 1);
 		height = max(leftHeight, rightHeight) + 1;
-		return balanced
+		return balanced;
 	}
     bool isBalanced(TreeNode* root) {
     	int height{};
