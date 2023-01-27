@@ -12,3 +12,9 @@ Solutions in various programming languages are provided. Enjoy it.
 4. 2023/01/26 [#112 Path Sum](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/04-Path-Sum): Tree, Recursive
 
 
+## Weekly Contest
+
+### Weekly Contest 329()
+* [#2544 Alternating Digit Sum]: Maths
+* [#2545 Sort the Students by Their Kth Score]: Customized Sort
+* 
