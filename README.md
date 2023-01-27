@@ -14,8 +14,8 @@ Solutions in various programming languages are provided. Enjoy it.
 
 ## Weekly Contest
 
-### Weekly Contest 329(https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/Weekly-Contest-329)
-* [#2544 Alternating Digit Sum]: Maths
-* [#2545 Sort the Students by Their Kth Score]: Customized Sort
-* [#2546 Apply Bitwise Operations to Make Strings Equal]: Maths
-* [#2547 Minimum Cost to Split an Array]: DP
+### [Weekly Contest 329](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/Weekly-Contest-329)
+* #2544 Alternating Digit Sum: Maths
+* #2545 Sort the Students by Their Kth Score: Customized Sort
+* #2546 Apply Bitwise Operations to Make Strings Equal: Maths
+* #2547 Minimum Cost to Split an Array: DP
