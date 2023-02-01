@@ -14,6 +14,7 @@ Solutions in various programming languages are provided. Enjoy it.
 6. 2023/01/28 [#235 Lowest Common Ancestor of a Binary Search Tree](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/06-Lowest-Common-Ancestor-of-a-Binary-Search-Tree): Tree, LCA
 7. 2023/01/29 [#1305 All Elements in Two Binary Search Trees](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/07-All-Elements-in-Two-Binary-Search-Trees): Tree Traversal
 8. 2023/01/30 [#35 Search Insert Position](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/08-Search-Insert-Position): Binary Search
+9. 2023/01/31 [#2389 Longest Subsequence With Limited Sum](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/09-Longest-Subsequence-With-Limited-Sum): Binary Search
 
 ## Weekly Contest
 
