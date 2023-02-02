@@ -15,6 +15,8 @@ Solutions in various programming languages are provided. Enjoy it.
 7. 2023/01/29 [#1305 All Elements in Two Binary Search Trees](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/07-All-Elements-in-Two-Binary-Search-Trees): Tree Traversal
 8. 2023/01/30 [#35 Search Insert Position](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/08-Search-Insert-Position): Binary Search
 9. 2023/01/31 [#2389 Longest Subsequence With Limited Sum](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/09-Longest-Subsequence-With-Limited-Sum): Binary Search
+10. 2023/02/01 [#1385 Find the Distance Value Between Two Arrays](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/10-Find-the-Distance-Value-Between-Two-Arrays): Binary Search
+11. 2023/02/02 [#374 Guess Number Higher or Lower](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/11-Guess-Number-Higher-or-Lower): Binary Search
 
 ## Weekly Contest
 
