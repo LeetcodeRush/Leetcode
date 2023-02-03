@@ -19,5 +19,3 @@ class Solution:
             if (i >= len(arr2) or arr2[i]-n > d) and (i == 0 or n - arr2[i-1] > d):
                 res += 1
         return res
-
-
