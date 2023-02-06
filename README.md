@@ -18,6 +18,10 @@ Solutions in various programming languages are provided. Enjoy it.
 10. 2023/02/01 [#1385 Find the Distance Value Between Two Arrays](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/10-Find-the-Distance-Value-Between-Two-Arrays): Binary Search
 11. 2023/02/02 [#374 Guess Number Higher or Lower](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/11-Guess-Number-Higher-or-Lower): Binary Search
 12. 2023/02/03 [#34 Find First and Last Position of Element in Sorted Array](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/12-Find-First-and-Last-Position-of-Element-in-Sorted-Array): Binary Search
+13. 2023/02/04 [#1004. Max Consecutive Ones III](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/13-Max-Consecutive-Ones-III): Binary Search
+14. 2023/02/05 [#74. Search a 2D Matrix](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/14-Search-a-2D-Matrix): Binary Search
+15. 2023/02/06 [#2517. Maximum Tastiness of Candy Basket](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/15-Maximum-Tastiness-of-Candy-Basket): Binary Search
+
 
 ## Weekly Contest
 
