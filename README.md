@@ -21,6 +21,9 @@ Solutions in various programming languages are provided. Enjoy it.
 13. 2023/02/04 [#1004. Max Consecutive Ones III](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/13-Max-Consecutive-Ones-III): Binary Search
 14. 2023/02/05 [#74. Search a 2D Matrix](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/14-Search-a-2D-Matrix): Binary Search
 15. 2023/02/06 [#2517. Maximum Tastiness of Candy Basket](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/15-Maximum-Tastiness-of-Candy-Basket): Binary Search
+16. 2023/02/07 [#2160 Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/16-Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits): Greedy
+17. 2023/02/08 [#1221 Split a String in Balanced Strings](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/17-Split-a-String-in-Balanced-Strings): Greedy
+18. 2023/02/09 [#605 Can Place Flowers](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/18-Can-Place-Flowers): Greedy
 
 
 ## Weekly Contest
