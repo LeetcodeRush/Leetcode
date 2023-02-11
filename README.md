@@ -24,7 +24,7 @@ Solutions in various programming languages are provided. Enjoy it.
 16. 2023/02/07 [#2160 Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/16-Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits): Greedy
 17. 2023/02/08 [#1221 Split a String in Balanced Strings](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/17-Split-a-String-in-Balanced-Strings): Greedy
 18. 2023/02/09 [#605 Can Place Flowers](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/18-Can-Place-Flowers): Greedy
-
+19. 2023/02/10 [#763 Partition Labels](): Greedy
 
 ## Weekly Contest
 
