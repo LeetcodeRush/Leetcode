@@ -26,8 +26,8 @@ Solutions in various programming languages are provided. Enjoy it.
 18. 2023/02/09 [#605 Can Place Flowers](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/18-Can-Place-Flowers): Greedy
 19. 2023/02/10 [#763 Partition Labels](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/19-Partition-Labels): Greedy
 20. 2023/02/11 [#2405 Optimal Partition of String](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/20-Optimal-Partition-of-String): Greedy
-21. 2023/02/12 [#1529 Minimum Suffix Flips](): Greedy
-22. 2023/02/13 [#1768 Merge Strings Alternately](): String
+21. 2023/02/12 [#1529 Minimum Suffix Flips](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/21-Minimum-Suffix-Flips): Greedy
+22. 2023/02/13 [#1768 Merge Strings Alternately](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/22-Merge-Strings-Alternately): String
 
 
 ## Weekly Contest
