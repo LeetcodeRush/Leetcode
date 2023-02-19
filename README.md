@@ -28,7 +28,11 @@ Solutions in various programming languages are provided. Enjoy it.
 20. 2023/02/11 [#2405 Optimal Partition of String](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/20-Optimal-Partition-of-String): Greedy
 21. 2023/02/12 [#1529 Minimum Suffix Flips](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/21-Minimum-Suffix-Flips): Greedy
 22. 2023/02/13 [#1768 Merge Strings Alternately](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/22-Merge-Strings-Alternately): String
-
+23. 2023/02/14 [#1043 Partition Array for Maximum Sum](): DP
+24. 2023/02/15 [#1706 Where Will the Ball Fall](): DP
+25. 2023/02/16 [#926 Flip String to Monotone Increasing](): DP
+26. 2023/02/17 [#935 Knight Dialer](): DP
+27. 2023/02/18 [#1664 Ways to Make a Fair Array](): DP
 
 ## Weekly Contest
 
