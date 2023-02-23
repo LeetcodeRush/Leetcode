@@ -33,10 +33,10 @@ Solutions in various programming languages are provided. Enjoy it.
 25. 2023/02/16 [#926 Flip String to Monotone Increasing](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/25-Flip-String-to-Monotone-Increasing): DP
 26. 2023/02/17 [#935 Knight Dialer](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/26-Knight-Dialer): DP
 27. 2023/02/18 [#1664 Ways to Make a Fair Array](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/27-Ways-to-Make-a-Fair-Array): DP
-28. 2023/02/19 [#1884 Egg Drop With 2 Eggs and N Floors](): DP
-29. 2023/02/20 [#1525 Number of Good Ways to Split a String](): DP
-30. 2023/02/21 [#1824 Minimum Sideway Jumps](): DP
-31. 2023/02/22 [#740 Delete and Earn](): DP
+28. 2023/02/19 [#1884 Egg Drop With 2 Eggs and N Floors](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/28-Egg-Drop-With-2-Eggs-and-N-Floors): DP
+29. 2023/02/20 [#1525 Number of Good Ways to Split a String](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/29-Number-of-Good-Ways-to-Split-a-String): DP
+30. 2023/02/21 [#1824 Minimum Sideway Jumps](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/30-Minimum-Sideway-Jumps): DP
+31. 2023/02/22 [#740 Delete and Earn](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/31-Delete-and-Earn): DP
 
 ## Weekly Contest
 
