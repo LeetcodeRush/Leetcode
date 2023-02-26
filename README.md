@@ -37,9 +37,9 @@ Solutions in various programming languages are provided. Enjoy it.
 29. 2023/02/20 [#1525 Number of Good Ways to Split a String](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/29-Number-of-Good-Ways-to-Split-a-String): DP
 30. 2023/02/21 [#1824 Minimum Sideway Jumps](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/30-Minimum-Sideway-Jumps): DP
 31. 2023/02/22 [#740 Delete and Earn](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/31-Delete-and-Earn): DP
-32. 2023/02/23 [#2285 Maximum Total Importance of Roads](): Star Graph
-33. 2023/02/24 [#2497 Maximum Star Sum of a Graph](): Star Graph
-34. 2023/02/25 [#1462 Course Schedule IV](): Graph, Floyd
+32. 2023/02/23 [#2285 Maximum Total Importance of Roads](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/32-Minimum-Total-Importance-of-Roads): Star Graph
+33. 2023/02/24 [#2497 Maximum Star Sum of a Graph](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/33-Maximum-Star-Sum-of-Graph): Star Graph
+34. 2023/02/25 [#1462 Course Schedule IV](https://github.com/LeetcodeRush/Leetcode/tree/main/Problems/34-Course-Schedule-IV): Graph, Floyd
 
 ## Weekly Contest
 
